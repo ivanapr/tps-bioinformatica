@@ -32,6 +32,14 @@ El **Score** funciona como el puntaje de un juego donde cada letra que coincide 
 ### Score vs. E-value
 Uniendo las otras dos ideas, si un alineamiento logró acumular muchos puntos (Score alto) porque las secuencias coinciden muy bien, la probabilidad de que ese resultado sea una simple coincidencia al azar es casi nula (E-value muy cercano a cero). A mayor puntaje de Score, más bajo y confiable es el E-value.
 
+
+### Resultado:
+Para la secuencia VVGGLGGYMLGSAMSRPIIHFGSDYEDRYYRENMHRYPNQVYYRPMDEYSNQNNFVHDCVNITIKQHTVTTTTKGENFTETDVKMMERVVEQMCITQYERESQAYYQRGSSMVLFSSPPVILLISFLIFLIVG
+
+Por el max score es prion protein [Homo sapiens]
+
+https://www.ncbi.nlm.nih.gov/protein/AAR21603.1?report=genbank&log$=prottop&blast_rank=2&RID=CZXVWNS7014
+
 ---
 
 ## 🧗🏻‍♀️ Desafío 8
